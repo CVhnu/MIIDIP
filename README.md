@@ -23,6 +23,14 @@ conda activate MIIDIP
 Run demos to process the images in dir ./examples/examples/ by following commands:  
 python MIIDIP.py 
 
+# The test results on the three datasets(RW-HAZE, BeDDE, MRFID).
+<img src=https://github.com/CVhnu/MIIDIP/blob/main/test.png >
+
+## The released model can be downloaded at
+* [Baidu](https://pan.baidu.com/s/1-zOBkKkAu9yHX1JgXAEgzw)[password=vh78]
+* [Google](https://drive.google.com/file/d/1zJqhScPxTvPlq5WhBRg29d-W_lfsp-4I/view?usp=drive_link)
+
+
 # Citation
 If you find our repo useful for your research, please cite us:
 
