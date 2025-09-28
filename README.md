@@ -1,4 +1,4 @@
-# MIIDIP
+# MIIDP
 Shift-Tolerant Perceptual Similarity Metric for Full Reference Image Dehazing Quality Assessment
 
 # Dependencies and Installation
@@ -8,23 +8,23 @@ Python 3.6
 Pytorch 1.2.0  
 
 \# git clone this repository
-git clone https://github.com/CVhnu/MIIDIP.git  
-cd MIIDIP
+git clone https://github.com/CVhnu/MIIDP.git  
+cd MIIDP
 
 \# create new anaconda env
 conda create -n SSID python=3.8  
-conda activate MIIDIP  
+conda activate MIIDP  
 
 # Get Started
-1. The pretrained checkpoints in the Code/pretrained/MIIDIP.pt.
+1. The pretrained checkpoints in the Code/pretrained/MIIDP.pt.
 2. Preparing data for training
 
 # Quick test
 Run demos to process the images in dir ./examples/examples/ by following commands:  
-python MIIDIP.py 
+python MIIDP.py 
 
 # The test results on the three datasets(RW-HAZE, BeDDE, MRFID).
-<img src=https://github.com/CVhnu/MIIDIP/blob/main/test.png >
+<img src=https://github.com/CVhnu/MIIDP/blob/main/test.png >
 
 ## The released model can be downloaded at
 * [Baidu](https://pan.baidu.com/s/1-zOBkKkAu9yHX1JgXAEgzw)[password=vh78]
